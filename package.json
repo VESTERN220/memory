@@ -2,7 +2,7 @@
   "name": "game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/VESTERN220/memory",
+  "homepage": "https://vestern220.github.io/memory",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@babel/polyfill": "^7.8.7",
